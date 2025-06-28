@@ -38,7 +38,8 @@ To design a simple 555 timer-based PCB in **Astable Mode**, which can be used fo
 ---
 
 ### 🧭 PCB Routing
-![image](https://github.com/user-attachments/assets/2073fa9c-0341-448a-bf87-c52dba9b14d6)
+![image](https://github.com/user-attachments/assets/af3ed9dc-2405-46e4-96b5-029972d8e5d3)
+
 
 
 - **Track Width**: 0.254 mm  
@@ -48,7 +49,7 @@ To design a simple 555 timer-based PCB in **Astable Mode**, which can be used fo
 ---
 
 ### 🧱 3D View
-![image](https://github.com/user-attachments/assets/91f23940-eafc-46fe-be41-0c0db1314eb5)
+![image](https://github.com/user-attachments/assets/e3620449-6a2a-4e06-84b1-44bd0b8d6a2d)
 
 
 ---
