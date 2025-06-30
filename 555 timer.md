@@ -43,7 +43,7 @@ To design a simple 555 timer-based PCB in **Astable Mode**, which can be used fo
 
 
 - **Track Width**: 0.254 mm  
-- Compact single-layer layout  
+- Double-layer layout  
 - Short, efficient traces for clean routing
 
 ---
@@ -58,6 +58,5 @@ To design a simple 555 timer-based PCB in **Astable Mode**, which can be used fo
 
 - Understanding 555 Timer pinout and function  
 - EasyEDA schematic and PCB design practice  
-- Compact layout and visualization with 3D preview  
-- Foundation for future timer-based projects
+
 
